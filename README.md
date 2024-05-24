@@ -1,16 +1,15 @@
-## Hi there 👋
+## Greetings and hello,  my name is Philip Karanja! 
 
-<!--
-**karapk/karapk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior software developer who doubles in BioResearch 🕵🏿
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
+- HTML, CSS, JavaScript
+- ## 📈 GitHub Stats
+![MyGitHuB Stats](https://github-readme-stats.vercel.app/api?username=karapk&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning REACT
+- 👯 I’m looking to collaborate on any and all projects that I can help with.
+- 💬 Ask me about running and marathons and I won't stop talking. 
+- 📫 How to reach me: kpk.my.mailings@gmail.com
+- ⚡ Fun fact: I sat on Sheldon's spot on the couch!
