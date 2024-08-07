@@ -12,4 +12,4 @@ I am a junior software developer who doubles in BioResearch 🕵🏿
 - 👯 I’m looking to collaborate on any and all projects that I can help with.
 - 💬 Ask me about running and marathons and I won't stop talking. 
 - 📫 How to reach me: kpk.my.mailings@gmail.com
-- ⚡ Fun fact: The Sahara Desert is approximately as big as the entire continental United States!
+- ⚡ Fun fact: The Olympic torch is actually ignited by the sun's rays!
