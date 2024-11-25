@@ -8,4 +8,4 @@ I am a junior software developer who doubles in BioResearch 🕵🏿
 
 - 💬 Ask me about running and marathons and I won't stop talking. 
 - 📫 How to reach me: kpk.my.mailings@gmail.com
-- ⚡ Fun fact: The longest recorded word in english is pneumonoultramicroscopicsilicovolcanoconiosis, which is, a lung disease. 
+- ⚡ Fun fact: Burning Man has a temporary zip code each year 89412
