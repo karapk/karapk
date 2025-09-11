@@ -8,4 +8,4 @@ I am a software developer who doubles in BioResearch 🕵🏿
 
 - 💬 Ask me about running and marathons and I won't stop talking. 
 - 📫 How to reach me: kpk.my.mailings@gmail.com
-- ⚡ Random fact: The Pope can't be an organ donor.
+- ⚡ Random fact: 600 million years ago a day lasted just 21 hours.
